@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diaz-camilo
-- 👀 I’m interested in Web applications
+- 👀 I’m interested in Web and desktop applications
 - 🌱 I’m currently learning ASP.NET MVC and REACT
-- 💞️ I’m looking to collaborate on Applications for hospitality
+- 💞️ I’m looking to collaborate on Java, React or .NET apps
 - 📫 How to reach me diaz.cam.oz@gmail.com
 
 <!---
